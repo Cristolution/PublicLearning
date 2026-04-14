@@ -4,4 +4,4 @@ draft: false
 tags:
 ---
  
-The rest of your content lives here. You can use **Markdown** here :)
+this is a place where i share what i learn.

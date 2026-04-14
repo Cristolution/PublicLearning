@@ -1,1 +1,0 @@
-This is a place where i share everything i learn so may be help others 

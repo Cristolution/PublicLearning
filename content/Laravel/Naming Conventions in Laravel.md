@@ -1,6 +1,5 @@
 
 
-for Laravel - backend - local 
 
 
 Sure—here’s a clean, consistent Laravel‑style **naming‑convention guide** you can use for your own backend projects (controllers, helpers, seeders, tasks, branches, variables, functions, files, etc.). I’ll keep it opinionated but close to what the Laravel community generally follows.stackoverflow+4

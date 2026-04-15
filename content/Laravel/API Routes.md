@@ -11,9 +11,9 @@ RESTful API routing with Laravel.
 
 Route::get('/users', 'UserController@index');
 Route::post('/users', 'UserController@store');
-Route::get('/users/{user}', 'show');
-Route::put('/users/{user}', 'update');
-Route::delete('/users/{user}', 'destroy');
+Route::get('/users/{userId}', 'show');
+Route::put('/users/{userId}', 'update');
+Route::delete('/users/{userId}', 'destroy');
 ```
 
 ---
@@ -86,6 +86,49 @@ Route::post('/posts', function (Request $request) {
         'author_id' => 'exists:users,id',
     ]);
 });
+```
+
+important note: we can make the validation here or in the controller, but it is better to have a separate file to the validation(and authorization )as:
+```php
+php artisan make:request StorePostRequest
+```
+
+and the output will be as 
+```php
+<?php
+namespace App\Http\Requests;
+
+use Illuminate\Foundation\Http\FormRequest;
+use App\Rules\ValidSlug;  // Your custom rule
+
+class StorePostRequest extends FormRequest
+{
+    public function authorize(): bool  // Permission check
+    {
+        return auth()->check();  // Logged in only
+    }
+
+    public function rules(): array  // Validation
+    {
+        return [
+            'title' => 'required|min:3|max:255',
+            'slug' => ['required', new ValidSlug],  // Custom rule
+            'content' => 'required|min:10',
+        ];
+    }
+
+    public function messages(): array  // Custom error msgs
+    {
+        return [
+            'title.required' => 'Post title is mandatory!',
+        ];
+    }
+}
+```
+
+so in the controller
+```php
+public function store(StorePostRequest $request) { Post::create($request->validated() + [ 'slug' => generate_slug($request->title) // Your helper ]); return redirect()->route('posts.index'); }
 ```
 
 ---

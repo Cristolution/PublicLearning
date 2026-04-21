@@ -1,4 +1,4 @@
-# Workflows & Automation ⚙️
+# Workflows & Automation 
 
 *Making AI do the work for you!*
 

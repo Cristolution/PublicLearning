@@ -1,4 +1,4 @@
-# AI Core Concepts 🧠
+# AI Core Concepts 
 
 *Simple explanations for fundamental AI terms - no tech jargon!*
 

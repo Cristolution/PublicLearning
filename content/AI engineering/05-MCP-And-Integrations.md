@@ -1,4 +1,4 @@
-# MCP & Integrations 🔗
+# MCP & Integrations 
 
 *How AI connects to the outside world!*
 

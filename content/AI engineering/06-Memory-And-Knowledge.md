@@ -1,4 +1,4 @@
-# Memory & Knowledge 🧠
+# Memory & Knowledge 
 
 *How AI remembers and learns!*
 
@@ -265,7 +265,7 @@ AI: "Bonjour!"  (responds in French!)
 
 ## Next Steps
 
-➡️ **[07-Quality-And-Safety.md](07-Quality-And-Safety.md)** - Learn about AI safety!
+ **[07-Quality-And-Safety.md](07-Quality-And-Safety.md)** - Learn about AI safety!
 
 ---
 

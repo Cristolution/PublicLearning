@@ -1,4 +1,4 @@
-# Quick Glossary 📖
+# Quick Glossary 
 
 *All key terms in one place!*
 

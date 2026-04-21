@@ -1,4 +1,4 @@
-# Prompting Basics ✍️
+# Prompting Basics 
 
 *The art of talking to AI so it actually helps you!*
 

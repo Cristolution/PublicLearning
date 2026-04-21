@@ -1,4 +1,4 @@
-# AI Engineering 101 📚
+# AI Engineering 101 
 
 *A complete beginner-friendly guide to AI concepts - no tech jargon!*
 

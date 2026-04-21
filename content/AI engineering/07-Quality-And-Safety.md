@@ -1,4 +1,4 @@
-# Quality & Safety 🛡️
+# Quality & Safety 
 
 *Making sure AI outputs are good and safe!*
 
@@ -13,7 +13,7 @@ A **hallucination** is when AI makes things up that sound true but aren't.
 ```
 You: "Who was the first person on Mars?"
 AI: "John Smith landed on Mars in 2025"
-Reality: No one has been to Mars yet! 🚀
+Reality: No one has been to Mars yet! 
 ```
 
 ### Why Does It Happen?
@@ -257,7 +257,7 @@ Testing AI by trying to **break it**.
 
 ## Next Steps
 
-➡️ **[08-Workflows-And-Automation.md](08-Workflows-And-Automation.md)** - Learn automation!
+ **[08-Workflows-And-Automation.md](08-Workflows-And-Automation.md)** - Learn automation!
 
 ---
 

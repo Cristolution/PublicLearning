@@ -1,4 +1,4 @@
-# Multimodal AI 🖼️🎧🎬
+# Multimodal AI 
 
 *AI that sees, hears, and creates!*
 
@@ -20,10 +20,10 @@
 
 ## Types of Modalities
 
-### 1. Text 📝
+### 1. Text 
 The foundation - AI reads text, generates text
 
-### 2. Vision 👁️
+### 2. Vision 
 AI can analyze and understand images
 
 **Capabilities:**
@@ -40,7 +40,7 @@ AI: "The chart shows sales increasing from
      $10K in January to $25K in June"
 ```
 
-### 3. Audio 🎧
+### 3. Audio 
 AI can hear and understand speech
 
 **Capabilities:**
@@ -55,7 +55,7 @@ You: [Upload audio recording]
 AI: "Transcript: Hello, I need help with my order"
 ```
 
-### 4. Vision Generation 🎨
+### 4. Vision Generation 
 AI can create images from text
 
 **Tools:**
@@ -72,7 +72,7 @@ You: "A cute robot drinking coffee in a cozy cafe"
 AI: [Generates image]
 ```
 
-### 5. Video 🎬
+### 5. Video 
 AI can understand and create video
 
 **Capabilities:**
@@ -190,7 +190,7 @@ Setting: In a forest clearing with light beams
 
 ---
 
-## Quick Reference 📋
+## Quick Reference 
 
 | Modality | Input Example | Output Example |
 |----------|--------------|----------------|
@@ -204,8 +204,8 @@ Setting: In a forest clearing with light beams
 
 ## Next Steps
 
-➡️ **[11-Glossary.md](11-Glossary.md)** - Quick reference!
+ **[11-Glossary.md](11-Glossary.md)** - Quick reference!
 
 ---
 
-*AI that sees and hears like we do! 👀*
+*AI that sees and hears like we do! 

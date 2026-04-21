@@ -1,4 +1,4 @@
-# AI Tools & Frameworks 🔧
+# AI Tools & Frameworks 
 
 *What you can use to work with AI - without coding!*
 

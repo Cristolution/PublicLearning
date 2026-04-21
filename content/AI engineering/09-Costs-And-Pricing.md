@@ -1,4 +1,4 @@
-# Costs & Pricing 💰
+# Costs Pricing 
 
 *Understanding AI costs without the headache!*
 
@@ -245,7 +245,7 @@ Set up alerts for unexpected spending
 
 ---
 
-## Quick Reference 📋
+## Quick Reference 
 
 | Term | Meaning |
 |------|---------|
@@ -273,7 +273,7 @@ Set up alerts for unexpected spending
 
 ## Index: Complete Guide
 
-➡️ **[00-Index.md](00-Index.md)** - Back to start!
+ **[00-Index.md](00-Index.md)** - Back to start!
 
 ---
 

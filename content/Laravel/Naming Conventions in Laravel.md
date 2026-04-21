@@ -173,7 +173,3 @@ Variations (depending on team): CamelCase (`FeatureUserAuth`) or dots (`feature.
 |Job / task|`ProcessPayment`|`ProcessPayment.php`|N/A|
 |Helper function|N/A|in `helpers.php`|N/A|
 |Git branch|N/A|`feature/new-login`|N/A|
-
----
-
-If you tell me which structure you’re using (standard Laravel, DDD, modules, etc.), I can give you a **ready‑to‑copy markdown table** you can paste into your own “Laravel Backend Naming Guide” doc and tweak per project.

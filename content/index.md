@@ -44,4 +44,4 @@ longform:
 - 📸 **Creative Content** – AI music & symbolic photography
 
 ---
-# here i am trying to publish the notes of what I learn primarily in Laravel and AI engineering
+# here I am trying to publish the notes of what I learn primarily in Laravel and AI engineering

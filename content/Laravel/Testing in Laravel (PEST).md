@@ -38,3 +38,7 @@ a note: there is difference between testing a class method and standalone functi
 }
 ```
 
+
+### note ! 
+to test 
+**Run**: `php artisan test` (PHPUnit) or `.\vendor\bin\pest` (both).

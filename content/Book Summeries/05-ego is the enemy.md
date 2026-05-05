@@ -1,6 +1,6 @@
 1- what means ego 
 in psychology there is part in every person 
-ed
+id
 ego
 super ego
 
